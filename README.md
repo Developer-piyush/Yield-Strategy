@@ -10,8 +10,8 @@
 ![1](https://github.com/Developer-piyush/Yield-Strategy/blob/main/assets/1.jpg)
 ![1](https://github.com/Developer-piyush/Yield-Strategy/blob/main/assets/2.jpg)
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # You can see in contract code how we have used openposition, -supplyandborrow, closeposition functions to implement the strategy we have discussed above.
-[click here](https://github.com/Developer-piyush/Yield-Strategy/blob/main/contracts/YieldFarmer.sol)
+[click here to view contract code](https://github.com/Developer-piyush/Yield-Strategy/blob/main/contracts/YieldFarmer.sol)
 
