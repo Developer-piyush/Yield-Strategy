@@ -7,11 +7,6 @@
 
 # Note: In our code we have borrowed 70% of the collateral amount instead of 75% in order to prevent any glitch/ or to payout interest or something. 
 
-<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://yoursite.com/the.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
-
+![1](https://github.com/Developer-piyush/Yield-Strategy/blob/main/assets/1.jpg)
+![1](https://github.com/Developer-piyush/Yield-Strategy/blob/main/assets/2.jpg)
 
